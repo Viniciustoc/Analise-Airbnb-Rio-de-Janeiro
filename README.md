@@ -84,4 +84,4 @@ Vinicius Stoc
 
 GitHub: github.com/Viniciustoc
 
-LinkedIn: https://www.linkedin.com/in/SEU_LINK_AQUI/
+LinkedIn: https://www.linkedin.com/in/vinicius-stoc-100959267/
