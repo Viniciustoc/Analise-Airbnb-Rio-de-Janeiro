@@ -79,6 +79,18 @@ Bash
 pip install pandas matplotlib seaborn
 Execute as células do notebook. O arquivo listings_summary.csv (os dados) já está incluído.
 
+
+### Limitações e Pontos de Atenção
+
+É importante notar que, como toda análise baseada em um dataset público, esta tem suas limitações:
+
+* **Viés de Coleta (Sampling Bias):** O dataset é um "scrape" de um dia específico (30/10/2025) e pode não representar 100% de todos os anúncios ativos, podendo ter capturado mais anúncios em certas áreas do que em outras.*** * 
+* **Sazonalidade:** Os preços refletem uma "foto" do final de outubro, o que pode influenciar os valores (preparação para alta temporada, pós-feriado, etc.).* * 
+* **Escopo da Plataforma:** A análise se limita aos dados do Airbnb. Imóveis de super-luxo, que são alugados em plataformas de nicho, podem não estar presentes nesta amostra.
+
+---
+
+
 👨‍💻 Sobre o Autor
 Vinicius Stoc
 
